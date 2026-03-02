@@ -1,5 +1,5 @@
-import { Landing } from "@/presentation/landing";
+import { Redesign } from "@/presentation/redesign";
 
 export default function Home() {
-  return <Landing />;
+  return <Redesign />;
 }
